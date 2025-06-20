@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/vedantkane56217" target="blank"><img src="https://img.shields.io/twitter/follow/vedantkane56217?logo=twitter&style=for-the-badge" alt="vedantkane56217" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain, GenAI**
+<p >
+              Full-Stack Developer who loves creating intuitive and dynamic UIs
+              with fast, secure and scalable backends using modern tools. <br />
+              Obsessed with learning new technologies.
+          
+            </p>
+- 🌱 Currently exploring **Blockchain, GenAI**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Vedantk005](https://hashnode.com/@Vedantk005)
 
