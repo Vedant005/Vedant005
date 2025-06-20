@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant005&label=Profile%20views&color=0e75b6&style=flat" alt="vedant005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedant005" alt="vedant005" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vedantkane56217" target="blank"><img src="https://img.shields.io/twitter/follow/vedantkane56217?logo=twitter&style=for-the-badge" alt="vedantkane56217" /></a> </p>
-
-- 🔭 I’m currently working on [SkillBridge](https://github.com/Vedant005/SkillBridge-Frontend)
 
 - 🌱 I’m currently learning **Blockchain, GenAI**
 
