@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <p >Full-Stack Developer who loves creating intuitive and dynamic UIs with fast, secure and scalable backends using modern tools. <br />
               Obsessed with learning new technologies. </p>
               
+- 🌐 My website : [**Portfolio**](https://vedantk.vercel.app/)              
 - 📝 I write articles on [Vedantk005](https://hashnode.com/@Vedantk005)
-
 - 📫 How to reach me **vedantkanekar909@gmail.com**
 
 ### Projects
