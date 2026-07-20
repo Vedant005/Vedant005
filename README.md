@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me **vedantkanekar909@gmail.com**
 
 ### Projects
+
+- [**Real-Time Order Update System**](https://github.com/Vedant005/Realtime_orders) : Real-time event-driven backend system where connected clients automatically receive updates whenever data in the database changes. The system eliminates client-side polling by leveraging PostgreSQL triggers, PostgreSQL LISTEN/NOTIFY, Redis Pub/Sub, and Socket.IO.
+
 - [**Content Repurposing Pipeline**](https://content-repurposing-pipeline.vercel.app) : An end-to-end AI-powered content repurposing platform that transforms long-form content into multiple optimized formats such as blogs, social media posts, and summaries.
   
 - [**Visualize Data**](https://github.com/Vedant005/Visualize-Data) : Visualize-Data is an interactive data visualization project that transforms raw datasets into meaningful graphical insights using modern visualization techniques. The project demonstrates how data can be analyzed and presented through charts and dashboards to improve understanding, interpretation, and decision-making.
