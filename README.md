@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ### Projects
 
+- [**DataWeave AI — Universal CSV to CRM Lead Importer**]([https://content-repurposing-pipeline.vercel.app](https://github.com/Vedant005/CRM-Lead-Importer)) : An enterprise-grade, AI-powered lead ingestion & schema normalization system built for DataWeave CRM. It seamlessly transforms messy, arbitrary CSV exports from Facebook Ads, Google Ads, Real Estate CRMs, Marketing Agencies, and unstructured spreadsheets into standardized, validated CRM leads with zero manual column mapping.
+
 - [**Real-Time Order Update System**](https://github.com/Vedant005/Realtime_orders) : Real-time event-driven backend system where connected clients automatically receive updates whenever data in the database changes. The system eliminates client-side polling by leveraging PostgreSQL triggers, PostgreSQL LISTEN/NOTIFY, Redis Pub/Sub, and Socket.IO.
 
 - [**Content Repurposing Pipeline**](https://content-repurposing-pipeline.vercel.app) : An end-to-end AI-powered content repurposing platform that transforms long-form content into multiple optimized formats such as blogs, social media posts, and summaries.
